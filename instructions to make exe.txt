@@ -1,0 +1,8 @@
+1. run this in cmd: pip install pyinstaller
+
+2. navigate to the directory the file is in (using cmd)
+
+3. run: pyinstaller --onefile -w main.py
+(can be any filename, in this case its named main.py)
+4. it should say where the new exe is, all this does is makes it runnable without the dependancies needing to be installed
+
